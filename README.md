@@ -1,6 +1,9 @@
 ## WiseBreeze
 
 [![GitHub User's stars](https://img.shields.io/github/stars/wisebreeze?style=flat&logo=GitHub)](https://github.com/wisebreeze)
+[[!bilibili](https://img.shields.io/badge/bilibili-智韵清风-%2300ceeb?logo=bilibili)](bilibili)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,wasm,java,kotlin,nodejs,vite,webpack,react,vue,go,py,md&perline=8)](https://skillicons.dev)
 
 <!--
 **wisebreeze/wisebreeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
