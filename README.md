@@ -1,4 +1,6 @@
-## Hi there 👋
+## WiseBreeze
+
+[![GitHub User's stars](https://img.shields.io/github/stars/wisebreeze?style=flat&logo=GitHub)](https://github.com/wisebreeze)
 
 <!--
 **wisebreeze/wisebreeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
