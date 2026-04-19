@@ -1,8 +1,16 @@
 ## WiseBreeze
 
 [![GitHub User's stars](https://img.shields.io/github/stars/wisebreeze?style=flat&logo=GitHub)](https://github.com/wisebreeze)
-[![bilibili](https://img.shields.io/badge/bilibili-智韵清风-%2300ceeb?logo=bilibili)](bilibili)
-[![Support](https://img.shields.io/badge/Support-Sponsor-ff69b4?logo=ko-fi)](https://www.ifdian.net/a/zybreeze)
+[![Bilibili](https://img.shields.io/badge/bilibili-智韵清风-%2300ceeb?logo=bilibili)](bilibili)
+[![Support](https://img.shields.io/badge/support-Sponsor-ff69b4?logo=ko-fi)](https://www.ifdian.net/a/zybreeze)
+[![Profile views](https://komarev.com/ghpvc/?username=wisebreeze&label=Profile%20views&style=flat&color=orange&abbreviated=true)](https://www.github.com/wisebreeze)
+
+Passionate developer exploring the intersection of **web technologies** and **system programming**. Building tools that make development smoother and experiences that delight users.
+
+- 🔭 Currently working on **open-source tools** for developers
+- 🌱 Learning **Rust**
+- 💬 Ask me about **JS**, **Go**, or **JAVA**
+- ⚡ Fun fact: Code is poetry in motion
 
 ###  Tech Stack
 
@@ -84,6 +92,18 @@
 </a>
 
 </div>
+
+### Support My Work
+
+If you find my projects useful, consider supporting me!
+
+[![爱发电](https://img.shields.io/badge/爱发电-Support_me-ff69b4?style=for-the-badge&logo=ko-fi)](https://www.ifdian.net/a/zybreeze)
+
+Your support helps me dedicate more time to open-source development and create better tools for everyone.
+
+---
+
+*⭐️ Star the repos you find useful — it means a lot!*
 
 <!--
 **wisebreeze/wisebreeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
