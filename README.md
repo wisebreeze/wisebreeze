@@ -1,4 +1,4 @@
-## WiseBreeze
+# WiseBreeze
 
 [![GitHub User's stars](https://img.shields.io/github/stars/wisebreeze?style=flat&logo=GitHub)](https://github.com/wisebreeze)
 [![Bilibili](https://img.shields.io/badge/bilibili-智韵清风-%2300ceeb?logo=bilibili)](bilibili)
@@ -12,21 +12,21 @@ Passionate developer exploring the intersection of **web technologies** and **sy
 - 💬 Ask me about **JS**, **Go**, or **JAVA**
 - ⚡ Fun fact: Code is poetry in motion
 
-###  Tech Stack
+##  Tech Stack
 
-#### Programming Languages
+### Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=js,java,kotlin,go,py&perline=5)](https://skillicons.dev)
 
-#### Frontend
+### Frontend
 [![Programming Languages](https://skillicons.dev/icons?i=html,css,sass,wasm,react,vue&perline=5)](https://skillicons.dev)
 
-#### Build Tools
+### Build Tools
 [![Programming Languages](https://skillicons.dev/icons?i=vite,webpack&perline=5)](https://skillicons.dev)
 
-#### Other
+### Other
 [![Programming Languages](https://skillicons.dev/icons?i=nodejs,md&perline=5)](https://skillicons.dev)
 
-### Stats
+## Stats
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Passionate developer exploring the intersection of **web technologies** and **sy
 
 </div>
 
-### Activity
+## Activity
 
 <div align="center">
 
@@ -93,7 +93,7 @@ Passionate developer exploring the intersection of **web technologies** and **sy
 
 </div>
 
-### Support My Work
+## Support My Work
 
 If you find my projects useful, consider supporting me!
 
